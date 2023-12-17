@@ -94,3 +94,4 @@ git remote add origin (сылка на репозиторий)
  ```sh
 git banch -M main
  ```
+ 
