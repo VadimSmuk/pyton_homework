@@ -90,3 +90,7 @@ git clone (ссылка на репозиторий)
  ```sh
 git remote add origin (сылка на репозиторий)
  ```
+ Указание основной ветки
+ ```sh
+git banch -M main
+ ```
