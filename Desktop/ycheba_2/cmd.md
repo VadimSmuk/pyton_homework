@@ -114,3 +114,7 @@ git push --set-upsteam origin (имя ветки)
  ```sh
 git push origin --delete (имя ветки)
  ```
+ Слияние текущих изменений с удаленным репозиторием
+ ```sh
+git pull --rebase
+ ```
