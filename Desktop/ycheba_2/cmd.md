@@ -110,3 +110,7 @@ git pull
  ```sh
 git push --set-upsteam origin (имя ветки)
  ```
+ Удаление ветки в удаленном репозитории
+ ```sh
+git push origin --delete (имя ветки)
+ ```
