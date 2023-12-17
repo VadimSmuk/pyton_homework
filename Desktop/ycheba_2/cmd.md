@@ -118,3 +118,7 @@ git push origin --delete (имя ветки)
  ```sh
 git pull --rebase
  ```
+ Продолжение слияния изменений
+ ```sh
+git rebase --continue
+ ```
