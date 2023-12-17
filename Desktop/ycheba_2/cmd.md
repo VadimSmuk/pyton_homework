@@ -106,3 +106,7 @@ git banch -M main
  ```sh
 git pull
  ```
+Вытолкнуть побочную ветку 
+ ```sh
+git push --set-upsteam origin (имя ветки)
+ ```
