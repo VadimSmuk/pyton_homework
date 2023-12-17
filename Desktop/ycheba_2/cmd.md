@@ -102,3 +102,7 @@ git banch -M main
  ```sh
  git push -u origin main
  ```
+ "Стянуть" изменения из удаленного репозитория 
+ ```sh
+git pull
+ ```
