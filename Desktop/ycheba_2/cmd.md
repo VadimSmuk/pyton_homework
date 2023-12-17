@@ -94,4 +94,7 @@ git remote add origin (сылка на репозиторий)
  ```sh
 git banch -M main
  ```
- 
+ Направляем локальный репозитовий в интернет
+ ```sh
+ git push -u origin main
+ ```
